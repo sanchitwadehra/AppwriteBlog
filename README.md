@@ -1,3 +1,7 @@
+# Test Credentials for the Vercel Deployed Instance :-
+email - abc@gmail.com
+password - 12345678
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
